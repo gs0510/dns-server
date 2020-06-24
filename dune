@@ -1,0 +1,3 @@
+(executable
+ (name udp_server)
+ (libraries fmt logs))
